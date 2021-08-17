@@ -1,4 +1,4 @@
-# waffra
+# Waffra
 
 This application was made for MECA Academy at which we did a full business plan for new ideas to save water in Egypt before getting hit with the crisis depending on the recent conflicts with Ethiopia. This application was made to show off our ideas and all there details about it.
 
